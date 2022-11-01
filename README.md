@@ -1,4 +1,4 @@
-# Onboarding-Screens-Challenge-at-Eclectics.io
+# Onboarding-Screens-Challenge-at-[ { Eclectics.io } ]
 The App is made with the aim of learning Navigation components, Fragments, Activities, MVVM and their dependencies.
 
 ## Demo
